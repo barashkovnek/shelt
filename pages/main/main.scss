@@ -89,7 +89,7 @@ body {
     // width: 80rem;
     height: 56.75rem;
     margin: 0 auto;
-    background: url(../assets/images/noise_transparent.png),
+    background: url(assets/images/noise_transparent.png),
         radial-gradient(100% 215.42% at 0% 0%, #5b483a 0%, #262425 100%), #211f20;
 }
 
@@ -465,7 +465,7 @@ body {
     font-size: 20px;
     letter-spacing: 0.06em;
     color: #545454;
-    background: url("../assets/icons/credit-card.svg") 4% 50% no-repeat $color-primary;
+    background: url("assets/icons/credit-card.svg") 4% 50% no-repeat $color-primary;
 }
 .donation__number span {
     padding: 0px 14px;
@@ -511,7 +511,7 @@ body {
     font-size: 20px;
     letter-spacing: 0.06em;
     color: #f1cdb3;
-    background: url("../assets/icons/icon-email.svg") no-repeat;
+    background: url("assets/icons/icon-email.svg") no-repeat;
     padding-left: 61px;
     line-height: 32px;
     margin-top: 36px;
@@ -525,7 +525,7 @@ body {
     font-size: 20px;
     letter-spacing: 0.06em;
     color: #f1cdb3;
-    background: url("../assets/icons/icon-phone.svg") no-repeat;
+    background: url("assets/icons/icon-phone.svg") no-repeat;
     line-height: 32px;
     padding-left: 60px;
     margin-top: 40px;
@@ -545,7 +545,7 @@ body {
 .footer__center__h4 {
     width: 302px;
     height: 46px;
-    background: url("../assets/icons/icon-marker.svg") no-repeat;
+    background: url("assets/icons/icon-marker.svg") no-repeat;
     font-family: Georgia;
     font-weight: normal;
     font-size: 20px;
